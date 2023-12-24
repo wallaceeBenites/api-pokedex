@@ -1,15 +1,11 @@
-<h1> Pokedex </h1>
+# Pokedex | Pojeto de Estudo APIs | Projeto Dio
  Status : Em desenvolvimento
- 
-````
-html - css - JavaScript
-
-````
-Site 
 ---
---> Em desenvolvimento
+## Sobre o Projeto
+- Projeto de Estudos para aprender a consumir um API 
+- Catalogo de Pokemons
+ ## Tecnologias Utilizadas
+````
+HTML - CSS - API PokeApi - JavaScript
 
-Imagem Previa 
----
-    Em desenvolvimento
-
+````
