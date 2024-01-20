@@ -1,5 +1,5 @@
-# Pokedex | Pojeto de Estudo APIs | Projeto Dio
- Status : Em desenvolvimento
+# Pokedex | Pojeto de Estudo APIs 
+
 ---
 ## Sobre o Projeto
 - Projeto de Estudos para aprender a consumir um API 
