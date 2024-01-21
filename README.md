@@ -9,3 +9,6 @@
 HTML - CSS - API PokeApi - JavaScript
 
 ````
+Imagem Previa 
+---
+<img src="/assets/imgs/Captura de tela 2024-01-20 214529.png">
